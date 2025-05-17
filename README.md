@@ -5,4 +5,14 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-[https://github.com/CheeseSpel/Snake-.git]git clone https://github.com/CheeseSpel/Snake-.git
+git clone https://github.com/CheeseSpel/Snake-.git
+
+2. Откройте проект в Visual Studio code или Visual Studio
+
+3. Соберите и запустите проект.
+
+## Управление
+
+- Используйте клавиши стрелок для управления змейкой.
+- Собирайте еду, чтобы увеличивать длину змейки.
+- Игра заканчивается, если змейка сталкивается с собой или стеной.
