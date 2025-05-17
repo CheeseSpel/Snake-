@@ -17,5 +17,5 @@ git clone https://github.com/CheeseSpel/Snake-.git
 - Собирайте еду, чтобы увеличивать длину змейки.
 - Игра заканчивается, если змейка сталкивается с собой или стеной.
 
-
-![Геймплей](https://github.com/CheeseSpel/Snake-/blob/main/2025-05-17%2016-52-56.gif)
+## Геймплей
+![1](https://github.com/CheeseSpel/Snake-/blob/main/2025-05-17%2016-52-56.gif)
