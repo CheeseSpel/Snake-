@@ -5,4 +5,4 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-git clone https://github.com/CheeseSpel/Snake-.git
+[https://github.com/CheeseSpel/Snake-.git]git clone https://github.com/CheeseSpel/Snake-.git
